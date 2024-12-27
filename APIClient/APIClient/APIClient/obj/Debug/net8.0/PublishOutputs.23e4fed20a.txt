@@ -1,0 +1,17 @@
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\APIClient.exe
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\APIClient.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\APIClient.deps.json
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\APIClient.runtimeconfig.json
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\APIClient.pdb
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\APIClient\APIClient\APIClient\obj\Debug\net8.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll

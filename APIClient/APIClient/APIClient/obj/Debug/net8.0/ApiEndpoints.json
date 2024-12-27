@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "APIClient.Controllers.DataController",
+    "Method": "DataService",
+    "RelativePath": "api/Data",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "call",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "jsonData",
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "dataService"
+  }
+]
