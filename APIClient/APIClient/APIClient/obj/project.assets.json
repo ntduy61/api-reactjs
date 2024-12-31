@@ -697,11 +697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\APIClient\\APIClient\\APIClient\\APIClient.csproj",
+      "projectUniqueName": "D:\\Projects\\ReactJS\\api-reactjs\\APIClient\\APIClient\\APIClient\\APIClient.csproj",
       "projectName": "APIClient",
-      "projectPath": "D:\\Projects\\APIClient\\APIClient\\APIClient\\APIClient.csproj",
+      "projectPath": "D:\\Projects\\ReactJS\\api-reactjs\\APIClient\\APIClient\\APIClient\\APIClient.csproj",
       "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\APIClient\\APIClient\\APIClient\\obj\\",
+      "outputPath": "D:\\Projects\\ReactJS\\api-reactjs\\APIClient\\APIClient\\APIClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
